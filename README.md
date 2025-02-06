@@ -9,4 +9,3 @@ Exterminator throws you into the middle of a relentless battle against endless w
 🔫 Diverse weapons & upgrades to keep gameplay fresh.
 🎨 Stylized graphics & explosive effects for an immersive experience.
 🎵 Dynamic sound effects to heighten the intensity.
-
